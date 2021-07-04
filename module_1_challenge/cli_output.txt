@@ -1,0 +1,35 @@
+Part 1 - LOAN SUMMARY CALCULATIONS
+
+a) Total number of loans under consideration are          : 5
+b) Total value of the loans under consideration is        : $2,750.00
+c) Average Loan Amount of loans under consideration is    : $550.00
+
+Part 2 - PRESENT VALUE CALCULATION AND BUY RECOMMENDATION
+
+a) Remaining months of the loan are        : 9
+b) Future value of the loan is             : $1,000.00
+c) Loan price is                           : $500.00
+d) The Present (Fair) value of the loan is : $861.77
+
+e) Recommend this loan! - The loan is worth at least the cost to buy it
+
+Part 3 - THE PRESENT VALUE OF A NEW LOAN
+
+The present value of the new loan is: $820.08
+
+Part 4 - INEXPENSIVE LOANS (loan price or cost <= $500.00)
+
+a) In the Python List Form :
+[{'loan_price': 500, 'remaining_months': 13, 'repayment_interval': 'bullet', 'future_value': 1000}, {'loan_price': 200, 'remaining_months': 16, 'repayment_interval': 'bullet', 'future_value': 1000}]
+
+b) In a User Friendly Form :
+Loan # 1:
+    loan_price           : 500
+    remaining_months     : 13
+    repayment_interval   : bullet
+    future_value         : 1000
+Loan # 2:
+    loan_price           : 200
+    remaining_months     : 16
+    repayment_interval   : bullet
+    future_value         : 1000
